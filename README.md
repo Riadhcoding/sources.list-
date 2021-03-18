@@ -32,5 +32,11 @@ deb http://kali.cs.nctu.edu.tw/kali kali-bleeding-edge main
 # and now just run this 
 
 ``
+sudo apt -y full-upgrade
+``
+
+
+
+``
 sudo apt update && sudo apt -y full-upgrade && sudo reboot
 ``
