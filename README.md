@@ -1,5 +1,8 @@
 # sources.list-
 sources.list  for kali linux 2021
+
+
+
 ``
 cd etc/apt/
 ``
@@ -10,7 +13,7 @@ sudo nano sources.list
  
  
  
- # copy this and save in sources.list and click ctrl x  and enter enter 
+ # copy this and paste in sources.list and click ctrl x  and enter enter 
  
 ``
 deb http://kali.cs.nctu.edu.tw/ /kali main contrib non-free
@@ -26,7 +29,7 @@ deb-src http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-f
 deb http://kali.cs.nctu.edu.tw/kali kali-bleeding-edge main
 ``
 
-
+# and now just run this 
 
 ``
 sudo apt -y upgrade 
