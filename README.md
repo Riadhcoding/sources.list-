@@ -13,7 +13,7 @@ sudo nano sources.list
  
  
  
- # copy this and paste in sources.list and click ctrl x  and enter enter 
+ # copy this and paste in sources.list and click ctrl x  and y enter enter
  
 ``
 deb http://kali.cs.nctu.edu.tw/ /kali main contrib non-free
